@@ -21,3 +21,5 @@ For portability purposes, Spring Boot provides us with an embedded HTTP server i
 ```bash
 java -jar path/to/jar/file.jar
 ```
+
+In case we do not wish for an embedded server, we can also create WAR files (Web Application aRchive) and deploy them to an external server.
